@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M3U_GST", "IPTV_List\M3U_GST.csproj", "{EF7AE3BA-1BBB-43B3-8F83-563E6C626B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7AE3BA-1BBB-43B3-8F83-563E6C626B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF7AE3BA-1BBB-43B3-8F83-563E6C626B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF7AE3BA-1BBB-43B3-8F83-563E6C626B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF7AE3BA-1BBB-43B3-8F83-563E6C626B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3695BE2-576D-4DB6-A00C-2B3FFE15E6C1}
+	EndGlobalSection
+EndGlobal
